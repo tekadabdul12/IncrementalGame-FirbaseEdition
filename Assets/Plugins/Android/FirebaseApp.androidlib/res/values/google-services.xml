@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">101863651174</string>
+  <string name="google_storage_bucket" translatable="false">tekad---incremental-game.appspot.com</string>
+  <string name="project_id" translatable="false">tekad---incremental-game</string>
+  <string name="google_api_key" translatable="false">AIzaSyBQMmTnXR8C-_izHgpzzRGgRSs5yAT3sVk</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBQMmTnXR8C-_izHgpzzRGgRSs5yAT3sVk</string>
+  <string name="google_app_id" translatable="false">1:101863651174:android:3c05457904da26caf1faa7</string>
+  <string name="default_web_client_id" translatable="false">101863651174-7743i0m4lt809jstgm1thaagaq48k5la.apps.googleusercontent.com</string>
+</resources>
