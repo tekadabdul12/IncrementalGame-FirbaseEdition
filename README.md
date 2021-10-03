@@ -1,5 +1,5 @@
 # IncrementalGame-FirbaseEdition
  
- incremental game versi local data
+ incremental game versi Cloud Data
 
- NB:kelanjur masuk ke step 2 pertengahan sampe switch android (gk tau cara balikinnya), tapi script dan firebase belum diinstall (belum masuk cloud data)
+ NB:asset firebase nya dihapus karna kebesaran, versi firebase nya : analytics & storage
